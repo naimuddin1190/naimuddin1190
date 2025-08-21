@@ -1,4 +1,4 @@
-[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)]
+![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
 <h1 align="center"> 👋HELLO,I'm MD NAIM UDDIN MOZUMDAR</h1>
 <h3 align="center">A passionate frontend developer from BANGLADESH</h3>
 <img src="https://cdn.dribbble.com/users/68398/screenshots/5699907/2.gif" alt="coding" align="right" width="400">

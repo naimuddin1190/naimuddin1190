@@ -1,37 +1,104 @@
-![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
-<h1 align="center"> 👋HELLO,I'm MD NAIM UDDIN MOZUMDAR</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
-<img src="https://cdn.dribbble.com/users/68398/screenshots/5699907/2.gif" alt="coding" align="right" width="400">
+<!-- ===== HEADER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=MD%20Naim%20Uddin%20Mozumdar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naim-uddin1190&label=Profile%20views&color=0e75b6&style=flat" alt="naim-uddin1190" /> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Naim+%F0%9F%91%8B;Frontend+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Learning+MERN+Full+Stack+%F0%9F%9A%80;CSE+%40+Premier+University%2C+Chittagong+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naimuddin1190&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/naimuddin1190?tab=followers"><img src="https://img.shields.io/github/followers/naimuddin1190?label=Followers&style=for-the-badge&color=302b63" alt="followers" /></a>
+</p>
 
-- 🌱 I’m currently learning **MERN FULL STACK WEB DEVELOPMENT**
+---
 
-- 💬 Ask me about **TECHNOLOGY AND DEVELOPMENT**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **mdnaimuddinmozumdar@gmail.com**
+<img src="https://cdn.dribbble.com/users/68398/screenshots/5699907/2.gif" alt="coding" align="right" width="380">
 
-- ⚡ Fun fact **ERROR**
+- 🚀 Passionate **Frontend Developer** from **Bangladesh** 🇧🇩
+- 🌱 Currently learning **MERN Full Stack Web Development**
+- 🎓 Studying **Computer Science & Engineering** at **Premier University, Chittagong**
+- 💬 Ask me about **Technology & Development**
+- 🏡 Based in **Chittagong**
+- 📫 Reach me: **mdnaimuddinmozumdar@gmail.com**
+- ⚡ Fun fact: My code works… until someone looks at it 😅
 
-<h3 align="left">Connect with me:</h3>
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://instagram.com/mozumder_naim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mozumder_naim" height="30" width="40" /></a>
+  <a href="mailto:mdnaimuddinmozumdar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/mozumder_naim" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/naim_uddin1190" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
-<a href="https://codeforces.com/profile/naim_uddin1190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naim_uddin1190" height="30" width="40" /></a>
+
+---
+
+## 🛠️ Tech Stack
+
+**💻 Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,c,java,kotlin,php,python,matlab&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**🎨 Frontend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimuddin1190&show_icons=true&locale=en&layout=compact" alt="naimuddin1190" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimuddin1190&show_icons=true&locale=en" alt="naimuddin1190" /></p>
+**⚙️ Backend & Database**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimuddin1190&" alt="naimuddin1190" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,laravel,mysql,firebase&theme=dark" />
+</p>
 
-<h3 align="left">Education:</h3>
-- Studies Computer Science and Engineering at Premier University, Chittagong
+**🧰 Tools & Design**
 
-- 🏡 Lives in **Chittagong**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,ai,arduino&theme=dark" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naimuddin1190&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimuddin1190&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naimuddin1190&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimuddin1190&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naimuddin1190/naimuddin1190/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naimuddin1190/naimuddin1190/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/naimuddin1190/naimuddin1190/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ "First, solve the problem. Then, write the code." ⭐</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
